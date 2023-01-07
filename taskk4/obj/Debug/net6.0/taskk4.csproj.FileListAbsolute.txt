@@ -1,0 +1,15 @@
+C:\Users\Qeeveik\Desktop\task4\taskk4\bin\Debug\net6.0\taskk4.exe
+C:\Users\Qeeveik\Desktop\task4\taskk4\bin\Debug\net6.0\taskk4.deps.json
+C:\Users\Qeeveik\Desktop\task4\taskk4\bin\Debug\net6.0\taskk4.runtimeconfig.json
+C:\Users\Qeeveik\Desktop\task4\taskk4\bin\Debug\net6.0\taskk4.dll
+C:\Users\Qeeveik\Desktop\task4\taskk4\bin\Debug\net6.0\taskk4.pdb
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.csproj.AssemblyReference.cache
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.AssemblyInfoInputs.cache
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.AssemblyInfo.cs
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.csproj.CoreCompileInputs.cache
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.dll
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\refint\taskk4.dll
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.pdb
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\taskk4.genruntimeconfig.cache
+C:\Users\Qeeveik\Desktop\task4\taskk4\obj\Debug\net6.0\ref\taskk4.dll
